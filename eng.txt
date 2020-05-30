@@ -1,0 +1,90 @@
+1 - create new workshop
+2 - create new employee
+3 - manage workshops
+4 - delete employee
+5 - switch to russian
+0 - exit
+Your choice:
+choose a workshop to manage
+working with
+ department, num
+1 - show workshops list
+2 - choose workshop
+3 - hire employee
+4 - fire employee
+5 - delete workshop
+7 - switch to russian
+name:
+department num:
+amount of workers:
+amount of products:
+input department num:
+there is no such department
+please, choose workshop first
+there is no such workshop to delete
+input employee's specialization:
+1 - turner
+2 - engineer
+3 - security
+4 - CEO
+here's some positions:
+there is no workers to delete
+input number of chosen employee:
+cannot find worker with inputed number
+worker is unemployed
+cannot find workshop
+there is no workers to fire
+worker
+ is fired from
+there is no workers to hire
+this worker is already hired
+ is hired to
+there is no such specialization :(
+wrong input
+try again:
+input department name:
+input products
+1 - input new product
+2 - switch to russian
+input product name:
+input product price:
+input product quantity:
+name  quantity  price
+products:
+input fio:
+input age:
+input stage:
+input experience:
+fio:
+number:
+age:
+stage:
+experience:
+department:
+5 - save data
+6 - switch to russian
+WORKSHOPS
+quantity:
+EMPLOYEES
+TURNERS
+ENGINEERS
+SECURITY
+CEOS
+department: unemployed
+health:
+endurance:
+agility:
+intellect:
+we can't open file
+File
+ has not enough lines
+ has too many lines
+current path:
+want to change?
+1 - yes
+0 - no
+input path to file:
+1 - show sceen
+2 - show program guide
+3 - show about author
+4 - start program

@@ -1,0 +1,1 @@
+/home/merso/CLionProjects/kurs/output.txt
